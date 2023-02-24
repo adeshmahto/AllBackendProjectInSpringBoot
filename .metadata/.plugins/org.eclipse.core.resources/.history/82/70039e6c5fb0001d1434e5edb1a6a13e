@@ -1,0 +1,5 @@
+package com.adesh.payment.service.services;
+
+public interface PaymentService {
+
+}

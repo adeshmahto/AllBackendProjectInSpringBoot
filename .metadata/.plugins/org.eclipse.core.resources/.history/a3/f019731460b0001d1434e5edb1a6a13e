@@ -1,0 +1,5 @@
+package com.adesh.payment.service.exceptions;
+
+public class ResourceNotFoundException {
+
+}

@@ -1,0 +1,13 @@
+package com.adesh.reservation.service.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+import com.adesh.reservation.service.services.ReservationService;
+
+
+public class ReservationController {
+	
+	@Autowired
+	private ReservationService reservationService;
+
+}

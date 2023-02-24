@@ -1,0 +1,5 @@
+package com.adesh.payment.service.servicesImpl;
+
+public class PaymentServiceImpl {
+
+}

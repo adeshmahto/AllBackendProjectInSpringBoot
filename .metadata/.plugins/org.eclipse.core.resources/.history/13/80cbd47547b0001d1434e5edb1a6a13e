@@ -1,0 +1,5 @@
+package com.adesh.reservation.service.services;
+
+public interface ReservationService {
+
+}
